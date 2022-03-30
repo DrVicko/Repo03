@@ -4,5 +4,5 @@ function main ()
     var y = x; 
     return[x, y]; 
 }
-main();
+console.log(main());
 module.exports = main; 
