@@ -1,5 +1,7 @@
 function main () 
 {
+    // Only change code below this line
+    
     var studlyCapVar;
     var properCamelCase;
     var titleCaseOver;
@@ -7,7 +9,8 @@ function main ()
     studlyCapVar = 10;
     properCamelCase = "A string";
     titleCaseOver = 9000; 
-   
+    
+    // Only change code above this line
     return {
         studlyCapVar,
         properCamelCase,
