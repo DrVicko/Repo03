@@ -4,5 +4,5 @@ function main ()
    
     return x;
 }
-main();
+console.log(main());
 module.exports = main; 
